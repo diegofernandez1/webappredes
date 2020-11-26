@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    {{ Felicidades, has iniciado sesión}}
+                    Felicidades, has iniciado sesión
                 </div>
             </div>
         </div>
